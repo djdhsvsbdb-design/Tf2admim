@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Example RED",
+    "team": "RED",
+    "class": "Soldier",
+    "source": "demo"
+  },
+  {
+    "name": "Example BLU",
+    "team": "BLU",
+    "class": "Medic",
+    "source": "demo"
+  }
+]
